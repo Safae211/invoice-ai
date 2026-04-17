@@ -12,3 +12,5 @@ python-bidi
 openpyxl
 google-genai
 matplotlib
+paddleocr
+paddlepaddle
