@@ -1,0 +1,13 @@
+easyocr
+opencv-python-headless
+pdf2image
+Pillow
+pandas
+streamlit
+python-dateutil
+torch
+torchvision
+arabic-reshaper
+python-bidi
+openpyxl
+google-genai
