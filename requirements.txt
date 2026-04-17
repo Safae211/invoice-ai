@@ -11,3 +11,4 @@ arabic-reshaper
 python-bidi
 openpyxl
 google-genai
+matplotlib
